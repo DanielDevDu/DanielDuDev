@@ -12,7 +12,6 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/daniel-duarte-palacios-537b33220/)
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -24,10 +23,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel13713&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel13713&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
 </p>
 
 <br>
@@ -35,11 +32,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/daniel-duarte-palacios-537b33220/">
+<a href="https://www.linkedin.com/in/daniel-duarte-palacios-537b33220/" target="_blank">
 <img src="https://github.com/Daniel13713/Daniel13713/blob/master/icons/linkedin.svg" alt="itchdotio" width="50" height="60">
 &nbsp;&nbsp;
 </a>
-<a href="https://twitter.com/_Daniel137">
+<a href="https://twitter.com/_Daniel137" target="_blank">
 <img src="https://github.com/Daniel13713/Daniel13713/blob/master/icons/twitter.svg" alt="twitter" width="50" height="60">
 &nbsp;&nbsp;
 </a>
