@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <a href="https://www.youtube.com/watch?v=NXXkq7l-wZg&ab_channel=earcandyfilms" target="_blank">
-<img height="180em" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+&nbsp;&nbsp;
 </a>
 
 <br>
