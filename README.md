@@ -35,8 +35,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<img src="https://github.com/Daniel13713/Daniel13713/tree/master/icons/linkedin.svg" alt="itchdotio" width="50" height="60">
+<a href="https://www.linkedin.com/in/daniel-duarte-palacios-537b33220/">
+<img src="https://github.com/Daniel13713/Daniel13713/blob/master/icons/linkedin.svg" alt="itchdotio" width="50" height="60">
 &nbsp;&nbsp;
-<img src="https://github.com/Daniel13713/Daniel13713/tree/master/icons/twitter.svg" alt="twitter" width="50" height="60">
+</a>
+<a href="https://twitter.com/_Daniel137">
+<img src="https://github.com/Daniel13713/Daniel13713/blob/master/icons/twitter.svg" alt="twitter" width="50" height="60">
 &nbsp;&nbsp;
+</a>
 </p>
