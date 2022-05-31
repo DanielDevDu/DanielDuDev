@@ -19,13 +19,13 @@
 
 <details  style="user-select: none;">
 <summary>
-### 🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 </summary>
 </details>
 
 <details  style="user-select: none;">
 <summary>
-### ⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;GitHub Analytics
 </summary>
 
 
