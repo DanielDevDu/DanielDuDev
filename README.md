@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=NXXkq7l-wZg&ab_channel=earcandyfilms" target="_blank">
+<a href="https://www.youtube.com/watch?v=NXXkq7l-wZg&ab_channel=earcandyfilms/" target="_blank">
 <img height="280em" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 &nbsp;&nbsp;
 </a>
@@ -48,7 +48,7 @@
 <img src="https://github.com/Daniel13713/Daniel13713/blob/master/icons/linkedin.svg" alt="itchdotio" width="50" height="60">
 &nbsp;&nbsp;
 </a>
-<a href="https://twitter.com/_Daniel137" target="_blank">
+<a href="https://twitter.com/_Daniel137/" target="_blank">
 <img src="https://github.com/Daniel13713/Daniel13713/blob/master/icons/twitter.svg" alt="twitter" width="50" height="60">
 &nbsp;&nbsp;
 </a>
