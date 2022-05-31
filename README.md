@@ -30,24 +30,22 @@
 </summary>
 </details>
 
+
 <details  style="user-select: none;">
 <summary>
 ⚙️ &nbsp;GitHub Analytics
 </summary>
-
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel13713&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel13713&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </p>
 </details>
-<br>
+
 
 <details  style="user-select: none;">
 <summary>
 🤝🏻 &nbsp;Connect with Me
 </summary>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-duarte-palacios-537b33220/" target="_blank">
 <img src="https://github.com/Daniel13713/Daniel13713/blob/master/icons/linkedin.svg" alt="itchdotio" width="50" height="60">
