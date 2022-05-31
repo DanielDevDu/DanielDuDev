@@ -18,14 +18,11 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel13713&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
-</p>
-
-<br>
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel13713&show_icons=true&hide_border=true&theme=radical">
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel13713&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel13713&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
 </p>
 
 <br>
