@@ -21,6 +21,8 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
+<br>
+
 
 <details  style="user-select: none;">
 <summary>
@@ -41,7 +43,10 @@
 </details>
 <br>
 
-### 🤝🏻 &nbsp;Connect with Me
+<details  style="user-select: none;">
+<summary>
+🤝🏻 &nbsp;Connect with Me
+</summary>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-duarte-palacios-537b33220/" target="_blank">
@@ -53,3 +58,4 @@
 &nbsp;&nbsp;
 </a>
 </p>
+</details>
