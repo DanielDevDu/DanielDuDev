@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=NXXkq7l-wZg&ab_channel=earcandyfilms)
+<a href="https://www.youtube.com/watch?v=NXXkq7l-wZg&ab_channel=earcandyfilms" target="_blank">
+<img height="180em" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+</a>
 
 <br>
 
