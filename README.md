@@ -35,5 +35,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-
+<img src="https://github.com/Daniel13713/Daniel13713/tree/master/icons/linkedin.svg" alt="itchdotio" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Daniel13713/Daniel13713/tree/master/icons/twitter.svg" alt="twitter" width="50" height="60">
+&nbsp;&nbsp;
 </p>
