@@ -17,16 +17,23 @@
 
 <br>
 
-
+<details  style="user-select: none;">
+<summary>
 ### 🛠 &nbsp;Tech Stack
+</summary>
+</details>
 
+<details  style="user-select: none;">
+<summary>
 ### ⚙️ &nbsp;GitHub Analytics
+</summary>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel13713&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel13713&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </p>
-
+</details>
 <br>
 
 ### 🤝🏻 &nbsp;Connect with Me
