@@ -48,11 +48,11 @@
 </summary>
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-duarte-palacios-537b33220/" target="_blank">
-<img src="https://github.com/Daniel13713/Daniel13713/blob/master/icons/linkedin.svg" alt="itchdotio" width="50" height="60">
+<img src="https://github.com/DanieDuDev/DanielDuDev/blob/master/icons/linkedin.svg" alt="itchdotio" width="50" height="60">
 &nbsp;&nbsp;
 </a>
 <a href="https://twitter.com/_Daniel137/" target="_blank">
-<img src="https://github.com/Daniel13713/Daniel13713/blob/master/icons/twitter.svg" alt="twitter" width="50" height="60">
+<img src="https://github.com/DanielDuDev/DanielDuDev/blob/master/icons/twitter.svg" alt="twitter" width="50" height="60">
 &nbsp;&nbsp;
 </a>
 </p>
